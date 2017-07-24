@@ -1,0 +1,28 @@
+body {
+  max-width: 620px;
+  min-width: 320px;
+}
+.favorable .pavo .prvo_mian {
+  padding: 10px 5px;
+}
+.favorable .pavo .prvo_mian a {
+  margin: 0 auto;
+  width: 33.33%;
+  height: 70px;
+}
+.favorable .pavo .prvo_mian a img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.favorable .bread {
+  height: 36px;
+  line-height: 36px;
+  padding-left: 10px;
+  background-color: #ccc;
+  border: 1px solid #999;
+  margin-bottom: 20px;
+}
+.favorable .favor_botton {
+  width: 100%;
+  background-color: #ccc;
+}
